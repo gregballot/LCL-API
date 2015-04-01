@@ -1,0 +1,1 @@
+Server LCL Smart Beacon

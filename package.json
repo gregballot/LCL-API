@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Api for LCL and Smartbeacon Hub project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lcl"
+  ],
+  "author": "ballot_g, lapray_o",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "ejs": "^2.2.4",
+    "express": "^4.11.2",
+    "mongoose": "^3.8.22",
+    "nodemailer": "^0.7.1"
+  }
+}
